@@ -20,7 +20,6 @@ end
 
  end
   "HAPPY NEW YEAR!"
-end		end
+end	
 
-def countdown
-end
+
